@@ -1,0 +1,24 @@
+Metadata-Version: 1.1
+Name: calculator
+Version: 0.0.4
+Summary: This is a simple calculator which helps to do airthmetics
+Home-page: UNKNOWN
+Author: boltuzamaki
+Author-email: divyanshuboltuzamaki23@gmail.com
+License: MIT
+Description: This is a calculator which helps to addition, subtraction, multiplication and division. :)
+        
+        
+        Change Log
+        =================
+        
+        0.0.1 (25/04/2021)
+        -----------------
+        - First Release
+        
+Keywords: calculator
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows 10
+Classifier: License :: OSI Approved :: MIT LicenseProgramming Language :: Python :: 3
